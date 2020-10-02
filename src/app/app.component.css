@@ -1,0 +1,7 @@
+p {
+  font-family: Lato;
+}
+.sidebar {
+  position: sticky;
+  background:#f3f3f3;
+}
